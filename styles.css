@@ -1,13 +1,58 @@
 body{
-    background-color:burlywood;
+    background-color:rgba(232, 237, 240, 0.89);
 }
 
 .titulo{
-    color: blue;
+    color:black;
     text-align: center;
-    font-style: italic;
+    font-style:normal;
+    font-size: 50px;
 }
 
 p{
     color: crimson;
 }
+
+.form-login{
+    width: 400px;
+    height: 340ppx;
+    background: #083e7c;
+    margin: auto;
+    margin-top: 100px;
+    box-decoration-break: 7px 13px 37px;
+    padding: 20px 20px;
+    border-top: 4px #4e4d4d;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 35px;
+}
+
+.firstButton{
+    text-align: center;
+    width: 50%;
+    height: 40px;
+    background: #017bab;
+    color: white;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+.secondaryButton{
+    background-color: white;
+    color: black;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+.login{
+    width: 300px;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
