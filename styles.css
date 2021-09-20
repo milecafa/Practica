@@ -1,0 +1,13 @@
+body{
+    background-color:burlywood;
+}
+
+.titulo{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+
+p{
+    color: crimson;
+}
